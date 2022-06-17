@@ -5,15 +5,15 @@ Este é um sistema para demonstração de implementação de algumas tecnologias
 
 O sistema inclui:
 
-Registro de Funcionário, Cidades e Títulos;
-Filtros de pesquisa dinâmicos;
-Impressão em PDF;
-Controle de acessos de usuários a urls utilizando o Spring Security;
-Gerenciamento por log de alterações de todos os registro da base de dados
-Utilizado templates e componentes genéricos para melhor reutilização do código;
-Otimização do CRUD com JPA;
-No Back-end implementado o Spring Framework com injeção de depenência, controle de transações, arquitetura MVC;
+* Registro das avaliações dos filmes;
+* Listagem dos filmes com a média das avaliações;
+* Mostra a média das notas em formato de estrelas;
 
-(TELA PESQUISA DE CIDADES)
+Artuiterura de implementação serapada por camadas:
+
+![padrao-camadas](https://user-images.githubusercontent.com/105746963/174309205-b679c28a-52d7-452c-b337-cc9aa91f04c0.png)
+
+
+(TELA DE LISTAGEM DOS FILMES)
 
 ![Capturar](https://user-images.githubusercontent.com/105746963/174289372-74cb38fa-3006-49da-8911-1f9d26265afa.JPG)
