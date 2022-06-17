@@ -9,7 +9,7 @@ O sistema inclui:
 * Listagem dos filmes com a média das avaliações;
 * Mostra a média das notas em formato de estrelas;
 
-Artuiterura de implementação serapada por camadas:
+Arquitetura de implementação serapada por camadas:
 
 ![padrao-camadas](https://user-images.githubusercontent.com/105746963/174309205-b679c28a-52d7-452c-b337-cc9aa91f04c0.png)
 
